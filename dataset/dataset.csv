@@ -1,0 +1,156 @@
+Age,BMI,Dietary Habits,Smoking,Medical History,Stress,Medication,Family History,Sleep Patterns,Hydration,Risk Level
+42,25.7,Balanced,No,None,Medium,None,No,Good,Normal,Low
+55,31.2,Spicy foods,No,GERD,High,None,Yes,Poor,Normal,Medium
+28,21.8,Balanced,No,None,Low,None,No,Good,Normal,Low
+70,27.9,Spicy foods,Yes,Ulcer history,High,NSAIDs,Yes,Poor,Normal,High
+32,23.5,Balanced,No,None,Medium,None,No,Good,Normal,Medium
+48,29.8,Spicy foods,Yes,None,High,NSAIDs,No,Poor,Normal,High
+50,24.1,Balanced,No,None,Low,None,No,Good,Normal,Low
+38,22.4,Balanced,No,None,Medium,None,No,Good,Normal,Medium
+45,28.3,Spicy foods,No,Gastritis,Medium,None,No,Poor,Normal,Medium
+33,25.6,Balanced,Yes,None,High,None,Yes,Good,Normal,High
+60,30.5,Spicy foods,Yes,None,High,None,Yes,Poor,Normal,High
+25,20.7,Balanced,No,None,Low,None,No,Good,Normal,Low
+58,29.1,Balanced,No,None,Medium,None,Yes,Good,Normal,Medium
+40,26.9,Spicy foods,No,None,Low,None,No,Poor,Normal,Low
+68,32.4,Balanced,Yes,Ulcer history,High,NSAIDs,No,Poor,Normal,High
+30,23.2,Balanced,No,None,Medium,None,No,Good,Normal,Medium
+52,27.6,Spicy foods,Yes,None,High,NSAIDs,No,Poor,Normal,High
+47,24.8,Balanced,No,None,Low,None,No,Good,Normal,Low
+35,22.9,Balanced,No,None,Medium,None,No,Good,Normal,Medium
+44,28.7,Spicy foods,No,GERD,Medium,None,No,Poor,Normal,Medium
+29,25.3,Balanced,Yes,None,High,None,Yes,Good,Normal,High
+62,30,Spicy foods,Yes,None,High,None,Yes,Poor,Normal,High
+27,20.1,Balanced,No,None,Low,None,No,Good,Normal,Low
+56,29.6,Balanced,No,None,Medium,None,Yes,Good,Normal,Medium
+41,27.3,Spicy foods,No,None,Low,None,No,Poor,Normal,Low
+72,33.2,Balanced,Yes,Ulcer history,High,NSAIDs,No,Poor,Normal,High
+31,24.5,Balanced,No,None,Medium,None,No,Good,Normal,Medium
+49,26.5,Spicy foods,Yes,None,High,NSAIDs,No,Poor,Normal,High
+46,23.7,Balanced,No,None,Low,None,No,Good,Normal,Low
+36,22.1,Balanced,No,None,Medium,None,No,Good,Normal,Medium
+43,28.9,Spicy foods,No,GERD,Medium,None,No,Poor,Normal,Medium
+39,25,Balanced,No,None,Low,None,No,Good,Normal,Low
+53,30.8,Spicy foods,No,GERD,High,None,Yes,Poor,Normal,Medium
+26,21.5,Balanced,No,None,Low,None,No,Good,Normal,Low
+68,28.6,Spicy foods,Yes,Ulcer history,High,NSAIDs,Yes,Poor,Normal,High
+31,23.9,Balanced,No,None,Medium,None,No,Good,Normal,Medium
+49,29.2,Spicy foods,Yes,None,High,NSAIDs,No,Poor,Normal,High
+52,24.7,Balanced,No,None,Low,None,No,Good,Normal,Low
+37,22.2,Balanced,No,None,Medium,None,No,Good,Normal,Medium
+42,27.5,Spicy foods,No,Gastritis,Medium,None,No,Poor,Normal,Medium
+34,25.2,Balanced,Yes,None,High,None,Yes,Good,Normal,High
+59,30.3,Spicy foods,Yes,None,High,None,Yes,Poor,Normal,High
+28,20.8,Balanced,No,None,Low,None,No,Good,Normal,Low
+57,29.5,Balanced,No,None,Medium,None,Yes,Good,Normal,Medium
+43,26.8,Spicy foods,No,None,Low,None,No,Poor,Normal,Low
+70,31.8,Balanced,Yes,Ulcer history,High,NSAIDs,No,Poor,Normal,High
+29,23.6,Balanced,No,None,Medium,None,No,Good,Normal,Medium
+51,28.1,Spicy foods,Yes,None,High,NSAIDs,No,Poor,Normal,High
+46,25.1,Balanced,No,None,Low,None,No,Good,Normal,Low
+39,22.6,Balanced,No,None,Medium,None,No,Good,Normal,Medium
+45,27.8,Spicy foods,No,GERD,Medium,None,No,Poor,Normal,Medium
+30,24.9,Balanced,Yes,None,High,None,Yes,Good,Normal,High
+61,30.1,Spicy foods,Yes,None,High,None,Yes,Poor,Normal,High
+24,20.3,Balanced,No,None,Low,None,No,Good,Normal,Low
+54,29.9,Balanced,No,None,Medium,None,Yes,Good,Normal,Medium
+40,27.2,Spicy foods,No,None,Low,None,No,Poor,Normal,Low
+69,32,Balanced,Yes,Ulcer history,High,NSAIDs,No,Poor,Normal,High
+32,24.3,Balanced,No,None,Medium,None,No,Good,Normal,Medium
+50,26.2,Spicy foods,Yes,None,High,NSAIDs,No,Poor,Normal,High
+48,23.8,Balanced,No,None,Low,None,No,Good,Normal,Low
+38,21.9,Balanced,No,None,Medium,None,No,Good,Normal,Medium
+44,28.5,Spicy foods,No,GERD,Medium,None,No,Poor,Normal,Medium
+36,25.3,Balanced,No,None,Low,None,No,Good,Normal,Low
+61,30.6,Spicy foods,No,GERD,High,None,Yes,Poor,Normal,Medium
+23,21.1,Balanced,No,None,Low,None,No,Good,Normal,Low
+73,28.4,Spicy foods,Yes,Ulcer history,High,NSAIDs,Yes,Poor,Normal,High
+29,23.7,Balanced,No,None,Medium,None,No,Good,Normal,Medium
+53,29.3,Spicy foods,Yes,None,High,NSAIDs,No,Poor,Normal,High
+49,24.4,Balanced,No,None,Low,None,No,Good,Normal,Low
+39,22.3,Balanced,No,None,Medium,None,No,Good,Normal,Medium
+46,27.7,Spicy foods,No,Gastritis,Medium,None,No,Poor,Normal,Medium
+31,25.1,Balanced,Yes,None,High,None,Yes,Good,Normal,High
+60,30.2,Spicy foods,Yes,None,High,None,Yes,Poor,Normal,High
+27,20.4,Balanced,No,None,Low,None,No,Good,Normal,Low
+55,29.4,Balanced,No,None,Medium,None,Yes,Good,Normal,Medium
+42,26.7,Spicy foods,No,None,Low,None,No,Poor,Normal,Low
+71,31.6,Balanced,Yes,Ulcer history,High,NSAIDs,No,Poor,Normal,High
+31,24.2,Balanced,No,None,Medium,None,No,Good,Normal,Medium
+52,28,Spicy foods,Yes,None,High,NSAIDs,No,Poor,Normal,High
+45,25,Balanced,No,None,Low,None,No,Good,Normal,Low
+40,22.5,Balanced,No,None,Medium,None,No,Good,Normal,Medium
+43,27.9,Spicy foods,No,GERD,Medium,None,No,Poor,Normal,Medium
+32,24.8,Balanced,Yes,None,High,None,Yes,Good,Normal,High
+58,30.4,Spicy foods,Yes,None,High,None,Yes,Poor,Normal,High
+26,20.5,Balanced,No,None,Low,None,No,Good,Normal,Low
+56,29.7,Balanced,No,None,Medium,None,Yes,Good,Normal,Medium
+41,26.6,Spicy foods,No,None,Low,None,No,Poor,Normal,Low
+74,32.2,Balanced,Yes,Ulcer history,High,NSAIDs,No,Poor,Normal,High
+33,24.6,Balanced,No,None,Medium,None,No,Good,Normal,Medium
+51,27.9,Spicy foods,Yes,None,High,NSAIDs,No,Poor,Normal,High
+47,23.9,Balanced,No,None,Low,None,No,Good,Normal,Low
+37,21.8,Balanced,No,None,Medium,None,No,Good,Normal,Medium
+44,28.6,Spicy foods,No,GERD,Medium,None,No,Poor,Normal,Medium
+35,25.2,Balanced,No,None,Low,None,No,Good,Normal,Low
+62,30.7,Spicy foods,No,GERD,High,None,Yes,Poor,Normal,Medium
+24,20.9,Balanced,No,None,Low,None,No,Good,Normal,Low
+74,28.3,Spicy foods,Yes,Ulcer history,High,NSAIDs,Yes,Poor,Normal,High
+30,23.8,Balanced,No,None,Medium,None,No,Good,Normal,Medium
+54,29.4,Spicy foods,Yes,None,High,NSAIDs,No,Poor,Normal,High
+50,24.5,Balanced,No,None,Low,None,No,Good,Normal,Low
+40,22.6,Balanced,No,None,Medium,None,No,Good,Normal,Medium
+47,27.8,Spicy foods,No,Gastritis,Medium,None,No,Poor,Normal,Medium
+28,25,Balanced,Yes,None,High,None,Yes,Good,Normal,High
+64,30.3,Spicy foods,Yes,None,High,None,Yes,Poor,Normal,High
+25,20.5,Balanced,No,None,Low,None,No,Good,Normal,Low
+59,29.5,Balanced,No,None,Medium,None,Yes,Good,Normal,Medium
+39,26.7,Spicy foods,No,None,Low,None,No,Poor,Normal,Low
+70,31.9,Balanced,Yes,Ulcer history,High,NSAIDs,No,Poor,Normal,High
+32,24.3,Balanced,No,None,Medium,None,No,Good,Normal,Medium
+53,28.1,Spicy foods,Yes,None,High,NSAIDs,No,Poor,Normal,High
+46,25.2,Balanced,No,None,Low,None,No,Good,Normal,Low
+42,22.7,Balanced,No,None,Medium,None,No,Good,Normal,Medium
+48,27.6,Spicy foods,No,GERD,Medium,None,No,Poor,Normal,Medium
+33,25.1,Balanced,Yes,None,High,None,Yes,Good,Normal,High
+57,30.5,Spicy foods,Yes,None,High,None,Yes,Poor,Normal,High
+26,20.6,Balanced,No,None,Low,None,No,Good,Normal,Low
+55,29.3,Balanced,No,None,Medium,None,Yes,Good,Normal,Medium
+41,26.5,Spicy foods,No,None,Low,None,No,Poor,Normal,Low
+72,32.1,Balanced,Yes,Ulcer history,High,NSAIDs,No,Poor,Normal,High
+34,24.7,Balanced,No,None,Medium,None,No,Good,Normal,Medium
+50,27.8,Spicy foods,Yes,None,High,NSAIDs,No,Poor,Normal,High
+49,23.8,Balanced,No,None,Low,None,No,Good,Normal,Low
+36,21.7,Balanced,No,None,Medium,None,No,Good,Normal,Medium
+43,28.5,Spicy foods,No,GERD,Medium,None,No,Poor,Normal,Medium
+38,24.9,Balanced,No,None,Low,None,No,Good,Normal,Low
+63,30.5,Spicy foods,No,GERD,High,None,Yes,Poor,Normal,Medium
+22,20.7,Balanced,No,None,Low,None,No,Good,Normal,Low
+75,28.2,Spicy foods,Yes,Ulcer history,High,NSAIDs,Yes,Poor,Normal,High
+31,23.7,Balanced,No,None,Medium,None,No,Good,Normal,Medium
+51,29.2,Spicy foods,Yes,None,High,NSAIDs,No,Poor,Normal,High
+48,24.4,Balanced,No,None,Low,None,No,Good,Normal,Low
+42,22.3,Balanced,No,None,Medium,None,No,Good,Normal,Medium
+45,27.7,Spicy foods,No,Gastritis,Medium,None,No,Poor,Normal,Medium
+29,25,Balanced,Yes,None,High,None,Yes,Good,Normal,High
+65,30.3,Spicy foods,Yes,None,High,None,Yes,Poor,Normal,High
+26,20.5,Balanced,No,None,Low,None,No,Good,Normal,Low
+60,29.5,Balanced,No,None,Medium,None,Yes,Good,Normal,Medium
+40,26.7,Spicy foods,No,None,Low,None,No,Poor,Normal,Low
+73,31.8,Balanced,Yes,Ulcer history,High,NSAIDs,No,Poor,Normal,High
+33,24.2,Balanced,No,None,Medium,None,No,Good,Normal,Medium
+52,27.9,Spicy foods,Yes,None,High,NSAIDs,No,Poor,Normal,High
+47,25.1,Balanced,No,None,Low,None,No,Good,Normal,Low
+37,22.8,Balanced,No,None,Medium,None,No,Good,Normal,Medium
+44,28.4,Spicy foods,No,GERD,Medium,None,No,Poor,Normal,Medium
+34,25,Balanced,Yes,None,High,None,Yes,Good,Normal,High
+58,30.1,Spicy foods,Yes,None,High,None,Yes,Poor,Normal,High
+27,20.6,Balanced,No,None,Low,None,No,Good,Normal,Low
+56,29.4,Balanced,No,None,Medium,None,Yes,Good,Normal,Medium
+41,26.4,Spicy foods,No,None,Low,None,No,Poor,Normal,Low
+72,32,Balanced,Yes,Ulcer history,High,NSAIDs,No,Poor,Normal,High
+35,24.7,Balanced,No,None,Medium,None,No,Good,Normal,Medium
+49,27.7,Spicy foods,Yes,None,High,NSAIDs,No,Poor,Normal,High
+50,23.7,Balanced,No,None,Low,None,No,Good,Normal,Low
+39,21.8,Balanced,No,None,Medium,None,No,Good,Normal,Medium
+46,28.6,Spicy foods,No,GERD,Medium,None,No,Poor,Normal,Medium
